@@ -1,1 +1,9 @@
-{"id":"exam-study-tasks","name":"考公学习任务","version":"0.1.0","minAppVersion":"1.6.0","description":"固定题单与作答、任务、精读和老师分析阅读的独立记录。","author":"Codex","isDesktopOnly":false}
+{
+  "id": "exam-study-tasks",
+  "name": "考公学习任务",
+  "version": "0.2.0",
+  "minAppVersion": "1.6.0",
+  "description": "固定题单与作答、任务、精读和老师分析阅读的独立记录。",
+  "author": "Codex",
+  "isDesktopOnly": false
+}
